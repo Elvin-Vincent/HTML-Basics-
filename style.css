@@ -1,0 +1,26 @@
+
+h2
+{
+    color:orange;
+}
+p.third{
+    border-style: solid;
+    color:brown;
+}
+h1{
+    color:green;
+    font-size: 50px;
+    background-color: black;
+    text-align: center;
+}
+ul{
+   
+    color:rgb(170, 26, 103);
+}
+ol{
+    color:rgb(200, 22, 147);
+}
+p.second{
+    color: blue;
+    text-align: center;
+}
